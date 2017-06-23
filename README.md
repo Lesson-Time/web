@@ -1,2 +1,1 @@
-# web
-lesson-time.com
+リリース管理用
